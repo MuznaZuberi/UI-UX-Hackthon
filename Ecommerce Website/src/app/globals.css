@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.header-container{
+  background-color: #FBEBB5;
+}
+
+
+
+.about-container{
+    background-color: #FBEBB5;
+
+}
+
+
+
+.sec_02{
+  background-color: #FAF4F4;
+}
+
+
+
+
+.sec_04{
+  background-color: #FBEBB5;
+}
+
+
+
+
+.shop_btn{
+    background-color: #FBEBB5;
+
+}
+
+
+
+
+.product_size{
+    background-color: #FBEBB5;
+}
+
+
+
+
+.size_btn{
+  background-color: #CFA965;
+}
